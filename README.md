@@ -63,7 +63,7 @@ Correct! You guessed the number.
 
 # GitHub Repository
 
-[View the GitHub Repository](YOUR_GITHUB_REPOSITORY_LINK)
+https://github.com/sravanthirajsid/Number-guessing-game.git
 
 # Author
 
